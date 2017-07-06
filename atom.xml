@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>我的生活</title>
+  <title></title>
   <subtitle>小林的博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-07-06T03:36:27.851Z</updated>
+  <updated>2017-07-06T09:24:49.881Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>小林</name>
+    <name>linshupeng</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>hey</title>
     <link href="http://yoursite.com/2017/07/06/one/"/>
     <id>http://yoursite.com/2017/07/06/one/</id>
-    <published>2017-07-06T03:35:07.088Z</published>
-    <updated>2017-07-06T03:36:27.851Z</updated>
+    <published>2017-07-06T03:28:30.000Z</published>
+    <updated>2017-07-06T09:24:49.881Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="my-new-article"><a href="#my-new-article" class="headerlink" title="my new article"></a>my new article</h1><p>haha ,this is the content.</p>
+    <content type="html"><![CDATA[<p>haha ,this is the content.</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;my-new-article&quot;&gt;&lt;a href=&quot;#my-new-article&quot; class=&quot;headerlink&quot; title=&quot;my new article&quot;&gt;&lt;/a&gt;my new article&lt;/h1&gt;&lt;p&gt;haha ,this is the cont
+      &lt;p&gt;haha ,this is the content.&lt;/p&gt;
+
     
     </summary>
     
